@@ -1,0 +1,517 @@
+Assigned hours per student/day
+ [*,D1,*]
+:             1          2          3          4          5          6          7          8          9          10       :=
+Fzhang81   0          0          0          0          0          0          0          0          0          0
+ablecker   0          0          0          0          0          0          0          0          0          0
+apharri7   0          0          0          0          0          0          0          0          0          0
+avidales   0          0          0          0          0          0          0          0          0          0
+bfsweene   0          0          0          0          0          0          0          0          0          0
+brjone16   0          0          0          0          0          brjone16   brjone16   brjone16   0          0
+cobite     0          0          0          0          0          0          0          0          0          0
+eagyema3   0          0          0          0          0          0          0          0          0          0
+fhuang21   0          0          0          0          0          0          0          0          0          0
+hachary3   0          0          0          0          0          0          0          0          0          0
+hshi35     hshi35     hshi35     hshi35     hshi35     0          0          0          0          0          0
+iflore14   iflore14   iflore14   0          0          0          0          0          0          0          0
+jaspiker   0          0          0          0          0          0          0          0          0          0
+jevanden   0          0          0          0          0          0          0          0          0          0
+jjames75   0          0          0          0          0          0          0          0          0          0
+jpmagan1   0          0          0          0          0          0          0          0          0          0
+jroarty    0          0          0          0          0          jroarty    jroarty    jroarty    0          0
+jvittore   0          0          0          jvittore   jvittore   0          0          0          0          0
+kbarkata   kbarkata   kbarkata   0          0          0          0          0          0          0          0
+kedoxey    0          0          0          0          0          0          0          0          0          0
+keyanwu    0          0          0          0          keyanwu    keyanwu    keyanwu    keyanwu    0          0
+kjohn313   0          0          0          0          0          0          0          kjohn313   kjohn313   kjohn313
+kkeya1     0          0          0          0          0          0          0          0          0          0
+kkoyah     0          0          0          0          0          0          kkoyah     kkoyah     kkoyah     kkoyah
+labaile3   0          0          0          0          0          0          0          0          0          0
+lfullme1   0          0          0          0          0          0          0          0          0          0
+lgabric    0          0          0          0          0          0          0          0          0          0
+mamerce1   0          0          0          0          0          0          0          0          0          0
+mellis5    0          0          0          0          0          0          0          0          0          0
+mfoconn1   0          0          0          0          0          0          0          0          0          0
+mguo24     0          0          0          0          0          0          0          0          0          0
+mjgille1   0          0          0          0          0          0          0          0          0          0
+nchmiele   0          0          0          0          0          0          0          0          0          0
+nheyer     0          0          0          0          0          0          0          0          0          nheyer
+pdoi1      0          0          0          0          0          0          0          0          0          0
+pjain46    0          pjain46    pjain46    pjain46    0          0          0          0          0          0
+rliu112    0          0          0          0          0          0          0          0          0          0
+sagyei     0          0          0          0          0          0          0          0          sagyei     sagyei
+sbradt     0          0          0          0          0          0          0          0          0          0
+scahyani   0          0          0          0          0          0          0          0          0          0
+sjung55    0          0          0          0          0          0          0          0          0          0
+slruiz3    0          0          0          0          0          0          0          0          0          0
+tgossett   0          0          tgossett   tgossett   tgossett   0          0          0          0          0
+tkwofie    0          tkwofie    tkwofie    0          0          0          0          0          0          0
+vduribe    0          0          0          0          0          0          0          0          0          0
+vscampo    0          0          0          0          0          0          0          0          0          0
+ycao108    0          0          0          0          0          0          0          0          0          0
+zchang7    0          0          0          0          0          0          0          0          0          0
+zharney    0          0          zharney    zharney    zharney    0          0          0          0          0
+
+:             11         12         13         14         15       :=
+Fzhang81   0          0          0          0          0
+ablecker   0          0          0          0          0
+apharri7   0          0          0          0          0
+avidales   0          avidales   avidales   avidales   avidales
+bfsweene   0          0          0          0          0
+brjone16   0          0          0          0          0
+cobite     0          0          0          0          0
+eagyema3   0          0          0          0          0
+fhuang21   0          0          0          fhuang21   fhuang21
+hachary3   0          hachary3   hachary3   hachary3   hachary3
+hshi35     0          0          0          0          0
+iflore14   0          0          0          0          0
+jaspiker   0          0          0          0          0
+jevanden   0          0          0          0          0
+jjames75   0          jjames75   jjames75   jjames75   jjames75
+jpmagan1   0          0          0          0          0
+jroarty    0          0          0          0          0
+jvittore   0          0          0          0          0
+kbarkata   0          0          0          0          0
+kedoxey    0          0          0          0          0
+keyanwu    0          0          0          0          0
+kjohn313   kjohn313   0          0          0          0
+kkeya1     0          0          0          0          0
+kkoyah     0          0          0          0          0
+labaile3   0          0          0          0          0
+lfullme1   0          0          0          0          0
+lgabric    0          0          0          0          0
+mamerce1   0          0          0          0          0
+mellis5    0          0          0          0          0
+mfoconn1   0          0          0          0          0
+mguo24     0          0          0          0          0
+mjgille1   0          0          0          0          0
+nchmiele   0          0          0          0          0
+nheyer     nheyer     nheyer     nheyer     nheyer     nheyer
+pdoi1      0          0          0          0          0
+pjain46    0          0          0          0          0
+rliu112    0          0          0          0          0
+sagyei     sagyei     0          0          0          0
+sbradt     sbradt     sbradt     sbradt     0          0
+scahyani   0          0          0          0          0
+sjung55    0          0          0          0          0
+slruiz3    0          0          0          0          0
+tgossett   0          0          0          0          0
+tkwofie    0          0          0          0          0
+vduribe    0          0          0          0          0
+vscampo    0          0          0          0          0
+ycao108    0          0          0          0          0
+zchang7    0          0          0          0          0
+zharney    0          0          0          0          0
+
+ [*,D2,*]
+:             1          2          3          4          5          6          7          8          9          10       :=
+Fzhang81   0          0          0          0          Fzhang81   Fzhang81   Fzhang81   0          0          0
+ablecker   0          0          0          0          0          0          0          0          0          0
+apharri7   0          0          0          0          0          0          0          0          0          0
+avidales   0          0          0          0          0          0          0          0          0          0
+bfsweene   0          0          0          0          0          0          0          0          0          0
+brjone16   0          0          0          0          0          0          0          0          0          0
+cobite     0          cobite     cobite     cobite     cobite     0          0          0          0          0
+eagyema3   0          0          0          0          0          0          0          0          0          0
+fhuang21   0          0          0          0          0          0          0          0          0          0
+hachary3   0          hachary3   hachary3   hachary3   0          0          0          0          0          0
+hshi35     hshi35     hshi35     hshi35     hshi35     0          0          0          0          0          0
+iflore14   0          0          0          0          0          0          0          0          0          0
+jaspiker   0          0          0          0          0          0          0          0          0          0
+jevanden   0          0          0          0          0          0          0          0          0          0
+jjames75   0          0          0          0          0          0          0          0          0          0
+jpmagan1   0          0          0          0          0          0          0          0          0          0
+jroarty    0          0          0          0          0          0          0          0          0          0
+jvittore   0          0          0          0          0          0          0          0          0          0
+kbarkata   0          0          0          0          0          0          0          0          0          0
+kedoxey    0          0          0          0          0          0          0          0          0          kedoxey
+keyanwu    0          0          0          0          0          0          0          0          0          0
+kjohn313   0          0          0          0          0          0          0          0          0          0
+kkeya1     0          0          0          0          0          kkeya1     kkeya1     kkeya1     kkeya1     0
+kkoyah     0          0          0          0          0          0          0          0          0          0
+labaile3   labaile3   labaile3   labaile3   0          0          0          0          0          0          0
+lfullme1   0          0          0          0          0          0          0          0          0          0
+lgabric    0          0          0          0          0          0          0          lgabric    lgabric    0
+mamerce1   0          0          0          0          0          0          0          mamerce1   mamerce1   mamerce1
+mellis5    0          0          0          0          0          0          0          0          0          0
+mfoconn1   0          0          0          0          0          0          0          0          0          0
+mguo24     0          0          0          0          0          0          0          0          0          0
+mjgille1   0          0          0          0          0          0          0          0          0          0
+nchmiele   0          0          0          0          0          nchmiele   nchmiele   nchmiele   0          0
+nheyer     0          0          0          0          0          0          0          0          0          0
+pdoi1      0          0          0          0          0          0          0          0          0          0
+pjain46    0          0          0          0          0          0          0          0          0          0
+rliu112    0          0          0          0          0          0          0          0          0          0
+sagyei     0          0          0          0          0          0          0          0          0          0
+sbradt     0          0          0          0          0          0          0          0          sbradt     sbradt
+scahyani   0          0          0          0          scahyani   scahyani   scahyani   0          0          0
+sjung55    0          0          0          0          0          0          0          0          0          0
+slruiz3    0          0          0          0          0          0          0          0          0          0
+tgossett   0          0          0          0          tgossett   tgossett   0          0          0          0
+tkwofie    0          0          0          tkwofie    tkwofie    0          0          0          0          0
+vduribe    vduribe    vduribe    vduribe    vduribe    0          0          0          0          0          0
+vscampo    0          0          0          0          0          0          0          0          0          0
+ycao108    0          0          0          0          0          0          0          0          0          0
+zchang7    0          0          0          0          0          0          0          zchang7    zchang7    zchang7
+zharney    0          0          0          0          0          0          0          0          0          0
+
+:             11         12         13         14         15       :=
+Fzhang81   0          0          0          0          0
+ablecker   0          0          0          0          0
+apharri7   0          0          0          0          0
+avidales   0          0          0          avidales   avidales
+bfsweene   0          0          0          0          0
+brjone16   0          0          0          0          0
+cobite     0          0          0          0          0
+eagyema3   0          0          0          0          0
+fhuang21   0          0          0          0          0
+hachary3   0          0          0          0          0
+hshi35     0          0          0          0          0
+iflore14   0          0          0          0          0
+jaspiker   0          0          0          0          0
+jevanden   0          0          0          jevanden   jevanden
+jjames75   0          0          0          0          0
+jpmagan1   0          0          jpmagan1   jpmagan1   jpmagan1
+jroarty    0          0          0          0          0
+jvittore   0          0          0          0          0
+kbarkata   0          0          0          0          0
+kedoxey    kedoxey    kedoxey    kedoxey    0          0
+keyanwu    0          0          0          0          0
+kjohn313   0          0          0          0          0
+kkeya1     0          0          0          0          0
+kkoyah     0          0          0          0          0
+labaile3   0          0          0          0          0
+lfullme1   0          0          0          0          0
+lgabric    0          0          0          0          0
+mamerce1   mamerce1   mamerce1   mamerce1   0          0
+mellis5    0          0          0          0          0
+mfoconn1   0          0          0          0          0
+mguo24     0          0          0          0          0
+mjgille1   0          mjgille1   mjgille1   mjgille1   mjgille1
+nchmiele   0          0          0          0          0
+nheyer     0          0          0          0          0
+pdoi1      0          pdoi1      pdoi1      pdoi1      pdoi1
+pjain46    0          0          0          0          0
+rliu112    0          0          0          0          0
+sagyei     0          0          0          0          0
+sbradt     sbradt     0          0          0          0
+scahyani   0          0          0          0          0
+sjung55    0          0          0          0          0
+slruiz3    0          0          0          0          0
+tgossett   0          0          0          0          0
+tkwofie    0          0          0          0          0
+vduribe    0          0          0          0          0
+vscampo    0          0          0          0          0
+ycao108    0          0          0          0          0
+zchang7    0          0          0          0          0
+zharney    0          0          0          0          0
+
+ [*,D3,*]
+:             1          2          3          4          5          6          7          8          9          10       :=
+Fzhang81   0          0          0          0          0          0          0          0          0          0
+ablecker   0          0          0          0          0          0          0          0          0          0
+apharri7   0          0          0          0          0          0          0          0          0          0
+avidales   0          0          0          0          0          0          0          0          0          0
+bfsweene   bfsweene   bfsweene   0          0          0          0          0          0          0          0
+brjone16   0          0          0          0          0          0          0          0          0          0
+cobite     0          0          0          0          0          0          0          0          0          0
+eagyema3   0          0          0          0          0          0          0          0          eagyema3   eagyema3
+fhuang21   0          0          0          0          0          0          0          0          0          0
+hachary3   0          hachary3   hachary3   hachary3   0          0          0          0          0          0
+hshi35     0          0          0          0          0          0          0          0          0          0
+iflore14   iflore14   iflore14   iflore14   iflore14   0          0          0          0          0          0
+jaspiker   0          0          0          0          0          0          0          0          0          0
+jevanden   0          0          0          0          0          0          0          0          0          0
+jjames75   0          0          0          0          0          0          0          0          0          0
+jpmagan1   0          0          0          0          0          0          0          0          0          0
+jroarty    0          0          0          0          0          0          0          0          0          0
+jvittore   0          0          0          0          0          0          0          0          0          0
+kbarkata   kbarkata   kbarkata   0          0          0          0          0          0          0          0
+kedoxey    0          0          0          0          0          0          0          0          0          0
+keyanwu    0          0          0          0          0          0          0          0          keyanwu    keyanwu
+kjohn313   0          0          0          0          0          0          0          0          0          0
+kkeya1     0          0          kkeya1     kkeya1     kkeya1     kkeya1     0          0          0          0
+kkoyah     0          0          0          0          0          0          0          0          0          0
+labaile3   0          0          0          0          0          0          0          0          0          0
+lfullme1   0          0          0          0          0          0          0          0          0          0
+lgabric    0          0          0          0          0          0          0          0          0          0
+mamerce1   0          0          0          0          0          0          0          0          0          0
+mellis5    0          0          0          0          0          0          0          0          0          0
+mfoconn1   0          0          0          0          0          0          0          0          0          0
+mguo24     0          0          0          0          0          0          0          0          0          0
+mjgille1   0          0          0          0          mjgille1   mjgille1   mjgille1   mjgille1   0          0
+nchmiele   0          0          0          0          0          nchmiele   nchmiele   nchmiele   0          0
+nheyer     0          0          0          0          0          0          0          0          0          0
+pdoi1      0          0          0          0          0          0          0          0          0          0
+pjain46    0          0          0          0          0          0          0          0          0          0
+rliu112    0          0          0          0          0          0          0          0          0          0
+sagyei     0          0          0          0          0          0          0          0          0          0
+sbradt     0          0          0          0          0          0          0          0          0          0
+scahyani   0          0          0          0          0          0          0          0          0          0
+sjung55    0          0          0          0          0          0          sjung55    sjung55    0          0
+slruiz3    0          0          0          0          0          0          0          0          slruiz3    slruiz3
+tgossett   0          0          0          0          0          0          0          tgossett   tgossett   tgossett
+tkwofie    0          0          0          0          0          0          0          0          0          0
+vduribe    vduribe    vduribe    vduribe    vduribe    0          0          0          0          0          0
+vscampo    0          0          0          0          vscampo    vscampo    0          0          0          0
+ycao108    0          0          0          0          0          ycao108    ycao108    ycao108    ycao108    ycao108
+zchang7    0          0          0          0          0          0          0          0          0          0
+zharney    0          0          zharney    zharney    zharney    0          0          0          0          0
+
+:             11         12         13         14         15       :=
+Fzhang81   0          0          0          0          0
+ablecker   0          0          0          0          0
+apharri7   apharri7   apharri7   0          0          0
+avidales   0          0          0          0          0
+bfsweene   0          0          0          0          0
+brjone16   0          0          0          0          0
+cobite     0          0          0          0          0
+eagyema3   eagyema3   eagyema3   0          0          0
+fhuang21   0          0          0          0          0
+hachary3   0          0          0          0          0
+hshi35     0          0          0          0          0
+iflore14   0          0          0          0          0
+jaspiker   0          0          jaspiker   jaspiker   jaspiker
+jevanden   0          0          0          0          0
+jjames75   0          0          0          jjames75   jjames75
+jpmagan1   0          0          0          0          0
+jroarty    0          0          0          0          0
+jvittore   0          0          0          0          0
+kbarkata   0          0          0          0          0
+kedoxey    0          0          0          0          0
+keyanwu    0          0          0          0          0
+kjohn313   0          0          0          0          0
+kkeya1     0          0          0          0          0
+kkoyah     0          0          0          0          0
+labaile3   0          0          0          0          0
+lfullme1   0          0          0          0          0
+lgabric    0          0          0          0          0
+mamerce1   0          0          0          0          0
+mellis5    0          mellis5    mellis5    mellis5    mellis5
+mfoconn1   0          0          0          0          0
+mguo24     0          mguo24     mguo24     mguo24     mguo24
+mjgille1   0          0          0          0          0
+nchmiele   0          0          0          0          0
+nheyer     0          0          0          0          0
+pdoi1      0          0          0          0          0
+pjain46    0          0          0          0          0
+rliu112    0          rliu112    rliu112    rliu112    rliu112
+sagyei     0          0          0          0          0
+sbradt     0          0          0          0          0
+scahyani   0          0          0          0          0
+sjung55    0          0          0          0          0
+slruiz3    0          0          0          0          0
+tgossett   0          0          0          0          0
+tkwofie    0          0          0          0          0
+vduribe    0          0          0          0          0
+vscampo    0          0          0          0          0
+ycao108    ycao108    0          0          0          0
+zchang7    0          0          0          0          0
+zharney    0          0          0          0          0
+
+ [*,D4,*]
+:             1          2          3          4          5          6          7          8         9         10       :=
+Fzhang81   0          0          0          0          Fzhang81   Fzhang81   Fzhang81   0         0         0
+ablecker   0          0          0          0          0          0          0          0         0         ablecker
+apharri7   0          0          0          0          0          0          0          0         0         0
+avidales   0          0          0          0          0          0          0          0         0         0
+bfsweene   0          0          0          0          0          0          0          0         0         0
+brjone16   0          0          0          0          0          0          0          0         0         0
+cobite     0          0          0          cobite     cobite     0          0          0         0         0
+eagyema3   0          0          0          0          0          eagyema3   eagyema3   0         0         0
+fhuang21   0          0          0          0          0          0          0          0         0         0
+hachary3   0          0          0          0          0          0          0          0         0         0
+hshi35     hshi35     hshi35     hshi35     hshi35     0          0          0          0         0         0
+iflore14   0          0          0          0          0          0          0          0         0         0
+jaspiker   0          0          0          0          0          0          0          0         0         0
+jevanden   0          0          0          0          0          0          0          0         0         0
+jjames75   0          0          0          0          0          0          0          0         0         0
+jpmagan1   0          0          0          0          0          0          0          0         0         0
+jroarty    0          0          0          0          0          0          jroarty    jroarty   jroarty   0
+jvittore   0          0          0          0          0          0          0          0         0         0
+kbarkata   0          0          0          0          0          0          0          0         0         0
+kedoxey    0          0          0          0          0          0          0          0         0         0
+keyanwu    0          0          0          0          0          0          0          0         0         0
+kjohn313   0          0          0          0          0          0          0          0         0         0
+kkeya1     kkeya1     kkeya1     kkeya1     kkeya1     0          0          0          0         0         0
+kkoyah     0          0          0          0          0          0          0          0         0         0
+labaile3   labaile3   labaile3   labaile3   0          0          0          0          0         0         0
+lfullme1   0          0          0          0          0          0          0          0         0         lfullme1
+lgabric    0          0          0          0          0          0          0          lgabric   lgabric   0
+mamerce1   0          0          0          0          0          0          0          0         0         0
+mellis5    0          0          0          0          0          0          0          0         0         0
+mfoconn1   0          mfoconn1   mfoconn1   mfoconn1   mfoconn1   0          0          0         0         0
+mguo24     0          0          0          0          0          0          0          mguo24    mguo24    0
+mjgille1   0          0          0          0          0          0          0          0         0         0
+nchmiele   0          0          0          0          0          0          0          0         0         0
+nheyer     0          0          0          0          0          0          0          0         0         0
+pdoi1      0          0          0          0          0          0          0          0         0         0
+pjain46    0          pjain46    pjain46    pjain46    0          0          0          0         0         0
+rliu112    0          0          0          0          0          0          0          0         0         0
+sagyei     0          0          0          0          0          0          0          0         0         0
+sbradt     0          0          0          0          0          0          0          0         0         0
+scahyani   0          0          0          0          scahyani   scahyani   scahyani   0         0         0
+sjung55    0          0          0          0          0          0          sjung55    sjung55   sjung55   sjung55
+slruiz3    0          0          0          0          0          0          0          0         0         0
+tgossett   0          0          0          0          tgossett   tgossett   0          0         0         0
+tkwofie    0          0          0          0          0          0          0          0         0         0
+vduribe    0          0          0          0          0          0          0          0         0         0
+vscampo    0          0          0          0          0          0          0          0         0         0
+ycao108    0          0          0          0          0          0          0          0         0         0
+zchang7    0          0          0          0          0          0          0          zchang7   zchang7   zchang7
+zharney    0          0          0          0          0          0          0          0         0         0
+
+:             11         12         13         14         15       :=
+Fzhang81   0          0          0          0          0
+ablecker   ablecker   ablecker   ablecker   ablecker   ablecker
+apharri7   0          0          0          0          0
+avidales   0          0          0          0          0
+bfsweene   0          0          0          0          0
+brjone16   0          0          0          0          0
+cobite     0          0          0          0          0
+eagyema3   0          0          0          0          0
+fhuang21   0          0          0          0          0
+hachary3   0          0          0          0          0
+hshi35     0          0          0          0          0
+iflore14   0          0          0          0          0
+jaspiker   0          0          0          0          0
+jevanden   0          jevanden   jevanden   jevanden   jevanden
+jjames75   0          0          0          0          0
+jpmagan1   0          0          jpmagan1   jpmagan1   jpmagan1
+jroarty    0          0          0          0          0
+jvittore   0          0          0          0          0
+kbarkata   0          0          0          0          0
+kedoxey    0          0          0          0          0
+keyanwu    0          0          0          0          0
+kjohn313   0          0          0          0          0
+kkeya1     0          0          0          0          0
+kkoyah     0          0          0          0          0
+labaile3   0          0          0          0          0
+lfullme1   lfullme1   0          0          0          0
+lgabric    0          0          0          lgabric    lgabric
+mamerce1   0          0          0          0          0
+mellis5    0          0          0          0          0
+mfoconn1   0          0          0          0          0
+mguo24     0          0          0          0          0
+mjgille1   0          mjgille1   mjgille1   mjgille1   mjgille1
+nchmiele   0          0          0          0          0
+nheyer     0          0          0          0          0
+pdoi1      pdoi1      pdoi1      0          0          0
+pjain46    0          0          0          0          0
+rliu112    0          0          0          0          0
+sagyei     0          0          0          0          0
+sbradt     0          0          0          0          0
+scahyani   0          0          0          0          0
+sjung55    0          0          0          0          0
+slruiz3    0          0          0          0          0
+tgossett   0          0          0          0          0
+tkwofie    0          0          0          0          0
+vduribe    0          0          0          0          0
+vscampo    0          0          0          0          0
+ycao108    0          0          0          0          0
+zchang7    0          0          0          0          0
+zharney    0          0          0          0          0
+
+ [*,D5,*]
+:             1          2          3          4          5          6          7          8          9          10       :=
+Fzhang81   0          0          0          0          0          0          0          0          0          0
+ablecker   0          0          0          0          0          0          0          0          0          0
+apharri7   0          0          0          0          0          0          0          0          apharri7   apharri7
+avidales   0          0          0          0          0          0          0          0          0          0
+bfsweene   0          0          0          0          0          0          bfsweene   bfsweene   bfsweene   bfsweene
+brjone16   0          0          0          0          0          0          0          0          0          0
+cobite     0          0          0          0          0          0          0          0          0          0
+eagyema3   0          0          0          0          0          0          0          0          0          0
+fhuang21   0          0          0          0          0          0          0          0          0          fhuang21
+hachary3   0          0          0          0          0          0          0          0          0          0
+hshi35     0          0          0          0          0          0          0          0          0          0
+iflore14   0          0          0          0          0          0          0          0          0          0
+jaspiker   0          0          jaspiker   jaspiker   jaspiker   0          0          0          0          0
+jevanden   0          0          0          0          0          0          0          0          0          0
+jjames75   0          0          0          0          0          0          0          0          0          0
+jpmagan1   0          0          0          0          0          0          0          0          0          0
+jroarty    0          0          0          0          0          0          0          0          0          0
+jvittore   jvittore   jvittore   jvittore   jvittore   0          0          0          0          0          0
+kbarkata   kbarkata   kbarkata   0          0          0          0          0          0          0          0
+kedoxey    0          0          0          0          0          0          0          0          0          0
+keyanwu    0          0          0          0          0          0          0          0          0          0
+kjohn313   0          0          0          0          0          kjohn313   kjohn313   0          0          0
+kkeya1     0          0          0          0          0          0          0          0          0          0
+kkoyah     0          0          0          0          0          0          0          0          0          0
+labaile3   0          0          0          0          0          0          0          0          0          0
+lfullme1   0          0          0          0          lfullme1   lfullme1   lfullme1   lfullme1   0          0
+lgabric    0          0          0          0          0          0          0          0          0          0
+mamerce1   0          0          0          0          0          0          0          0          0          0
+mellis5    0          0          0          0          0          0          0          0          0          0
+mfoconn1   0          0          0          0          0          0          0          0          0          0
+mguo24     0          0          0          0          0          0          0          0          0          0
+mjgille1   0          0          0          0          0          0          0          0          0          0
+nchmiele   0          0          0          0          0          0          0          0          0          0
+nheyer     0          0          0          0          0          0          0          0          0          0
+pdoi1      0          0          0          0          0          0          0          0          0          0
+pjain46    0          0          0          0          0          0          0          0          0          0
+rliu112    0          0          0          0          0          0          0          0          0          0
+sagyei     0          0          0          0          0          0          0          0          sagyei     sagyei
+sbradt     0          0          0          0          0          0          0          0          0          0
+scahyani   0          0          0          0          0          0          0          0          0          0
+sjung55    0          0          0          0          0          0          0          0          0          0
+slruiz3    0          0          0          0          0          slruiz3    slruiz3    slruiz3    slruiz3    0
+tgossett   0          0          0          0          0          0          0          0          0          0
+tkwofie    0          0          0          0          0          0          0          0          0          0
+vduribe    vduribe    vduribe    vduribe    vduribe    0          0          0          0          0          0
+vscampo    0          0          0          0          vscampo    vscampo    vscampo    vscampo    0          0
+ycao108    0          0          0          0          0          0          0          0          0          0
+zchang7    0          0          0          0          0          0          0          0          0          0
+zharney    0          0          0          0          0          0          0          0          0          0
+
+:             11         12         13     14  15    :=
+Fzhang81   0          0          0          0   0
+ablecker   0          0          0          0   0
+apharri7   apharri7   apharri7   0          0   0
+avidales   0          0          0          0   0
+bfsweene   0          0          0          0   0
+brjone16   brjone16   brjone16   brjone16   0   0
+cobite     0          0          0          0   0
+eagyema3   0          0          0          0   0
+fhuang21   fhuang21   fhuang21   fhuang21   0   0
+hachary3   0          hachary3   hachary3   0   0
+hshi35     0          0          0          0   0
+iflore14   0          0          0          0   0
+jaspiker   0          0          0          0   0
+jevanden   0          0          0          0   0
+jjames75   0          0          0          0   0
+jpmagan1   0          0          0          0   0
+jroarty    0          0          0          0   0
+jvittore   0          0          0          0   0
+kbarkata   0          0          0          0   0
+kedoxey    0          0          0          0   0
+keyanwu    0          0          0          0   0
+kjohn313   0          0          0          0   0
+kkeya1     0          0          0          0   0
+kkoyah     0          0          0          0   0
+labaile3   0          0          0          0   0
+lfullme1   0          0          0          0   0
+lgabric    0          0          0          0   0
+mamerce1   0          0          0          0   0
+mellis5    0          0          0          0   0
+mfoconn1   0          mfoconn1   mfoconn1   0   0
+mguo24     0          0          0          0   0
+mjgille1   0          0          0          0   0
+nchmiele   0          0          0          0   0
+nheyer     0          0          0          0   0
+pdoi1      0          0          0          0   0
+pjain46    0          0          0          0   0
+rliu112    0          0          0          0   0
+sagyei     sagyei     0          0          0   0
+sbradt     0          0          0          0   0
+scahyani   0          0          0          0   0
+sjung55    0          0          0          0   0
+slruiz3    0          0          0          0   0
+tgossett   0          0          0          0   0
+tkwofie    0          0          0          0   0
+vduribe    0          0          0          0   0
+vscampo    0          0          0          0   0
+ycao108    0          0          0          0   0
+zchang7    0          0          0          0   0
+zharney    0          0          0          0   0
+;
+

@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Student Schedule</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="container mx-auto my-5">
+
+  <h1 class="text-4xl p-2 my-2">Student Schedule</h1>
+
+  <table class="table-auto border-2 rounded" id="schedule">
+
+  </table>
+  <br>
+  <br>
+  <input class="border-4 border-gray-400 rounded-full p-2" type="text" id="search" placeholder="Search">
+  <br>
+  <br>
+  <table class="table-auto border-2 rounded" id="table">
+    <!-- Table generated from summary data -->
+  </table>
+
+
+  <script>
+    let data;
+    let summary;
+    let names;
+    const getData = async () => {
+      const response = await fetch('table.json');
+      const response_summary = await fetch('summary.json');
+      const response_names = await fetch('names.json');
+      data = await response.json();
+      summary = await response_summary.json();
+      names = await response_names.json();
+
+
+      return { data, summary, names };
+    }
+
+    // Use .then() to handle the resolved Promise
+    getData().then((result) => {
+      const { data, summary, names } = result;
+      const style = `
+      table {
+        border-collapse: collapse;
+        border-spacing:10px;
+      }
+
+      td, th {
+        width: 400px;
+        padding: 5px;
+        border: 2px solid #ddd;
+      }
+        .row-1 { 
+        background-color: #9aa34a;
+      }
+
+    .row-2 {
+      background-color: #f4f4f4;
+    }
+    `;
+
+   
+
+      const dayNames = {
+        D1: 'Monday',
+        D2: 'Tuesday',
+        D3: 'Wednesday',
+        D4: 'Thursday',
+        D5: 'Friday'
+      }
+
+      let table = document.getElementById("schedule");
+
+      // Create header
+      let header = table.createTHead();
+      let row = header.insertRow();
+
+      const times = {
+        1: '09:30 AM',
+        2: '10:00 AM',
+        3: '10:30 AM',
+        4: '11:00 AM',
+        5: '11:30 AM',
+        6: '12:00 PM',
+        7: '12:30 PM',
+        8: '01:00 PM',
+        9: '01:30 PM',
+        10: '02:00 PM',
+        11: '02:30 PM',
+        12: '03:00 PM',
+        13: '03:30 PM',
+        14: '04:00 PM',
+        15: '04:30 PM'
+      }
+
+      for (let i = 0; i <= 15; i++) {
+        let th = document.createElement("th");
+        th.textContent = times[i] || "";
+        row.appendChild(th);
+      }
+
+
+      // Add data rows
+      for (let day in data) {
+
+        let dayName = dayNames[day];
+        let row = table.insertRow();
+
+
+        let dayCell = row.insertCell();
+        dayCell.innerHTML = dayName;
+
+
+        for (let time in data[day]) {
+          let timeCell = row.insertCell();
+
+          for (let student of data[day][time]) {
+            timeCell.innerHTML += names[student].last_name + "<br>";
+          }
+        }
+      }
+
+      // Widen days column
+      const widenDays = `
+      document.querySelectorAll("td:first-child")
+        .forEach(cell => cell.style.width = "200px");
+    `;
+
+      // Append CSS
+      document.head.insertAdjacentHTML("beforeend", `<style>${style}</style>`);
+
+      // Widen days
+      eval(widenDays);
+
+      function generateTable(summary) {
+
+        const table = document.getElementById('table');
+
+        // Create headers
+        const headerRow = document.createElement('tr');
+        const studentHeader = document.createElement('th');
+        studentHeader.textContent = 'Student';
+        const nameHeader = document.createElement('th');
+        nameHeader.textContent = 'Full Name';
+        const countHeader = document.createElement('th');
+        countHeader.textContent = 'Count';
+        const timeslotsHeader = document.createElement('th');
+        timeslotsHeader.textContent = 'Timeslots';
+        headerRow.append(studentHeader, nameHeader, countHeader, timeslotsHeader);
+        table.appendChild(headerRow);
+
+        for (const [student, info] of Object.entries(summary)) {
+          const name = `${names[student].first_name} ${names[student].last_name}`;
+          console.log(name)
+
+
+          const row = document.createElement('tr');
+
+          
+          row.innerHTML = `
+            <td>${student}</td>
+            <td>${name}</td>
+            <td>${info.count}</td>
+            <td>
+              <button class="toggle border-2 p-1 rounded-full" data-student="${student}">
+          Show Days
+        </button>
+        <div class="timeslots hidden"></div>
+      </td>
+    `;
+
+          table.appendChild(row);
+
+        }
+      }
+
+
+
+      generateTable(summary);
+
+      document.querySelectorAll('.toggle').forEach(button => {
+
+        button.addEventListener('click', e => {
+
+          const student = button.dataset.student;
+          const info = summary[student];
+
+          console.log('student', info)
+
+          let timeslotHTML = '';
+
+          for (const [day, slots] of Object.entries(info.days)) {
+            console.log(slots, 'slots')
+            timeslotHTML += `<p><b>${dayNames[day]}</b>: ${slots.map(time => times[time])}</p>`;
+          }
+
+          let visible = button.nextElementSibling.classList.contains('hidden');
+
+          button.nextElementSibling.innerHTML = '';
+
+          if (visible) {
+            button.nextElementSibling.innerHTML = timeslotHTML;
+            button.nextElementSibling.classList.remove('hidden');
+          } else {
+            button.nextElementSibling.classList.add('hidden');
+          }
+        });
+      });
+
+
+      const rows = document.querySelectorAll('#table tr');
+
+      // Filtering 
+      search.addEventListener('input', filterTable);
+
+      function filterTable(e) {
+
+        const query = e.target.value.toLowerCase();
+
+        // Hide all rows
+        rows.forEach(row => row.style.display = 'none');
+
+        // Show matching rows
+        rows.forEach(row => {
+          if (row.innerText.toLowerCase().includes(query)) {
+            row.style.display = '';
+          }
+        });
+
+      }
+
+    });
+
+
+  </script>
+
+</body>
+
+</html>

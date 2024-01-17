@@ -1,0 +1,314 @@
+[
+    {
+        "email": "fhuang21@asu.edu",
+        "first_name": "fan",
+        "last_name": "huang",
+        "asurite_id": "1208864653"
+    },
+    {
+        "email": "jpmagan1@asu.edu",
+        "first_name": "Jerry",
+        "last_name": "Magana",
+        "asurite_id": "jpmagan1"
+    },
+    {
+        "email": "kkeya1@asu.edu",
+        "first_name": "Kamrun Nahar",
+        "last_name": "Keya",
+        "asurite_id": "kkeya1"
+    },
+    {
+        "email": "kbarkata@asu.edu",
+        "first_name": "Kasturi",
+        "last_name": "Barkataki",
+        "asurite_id": "1227356028"
+    },
+    {
+        "email": "hachary3@asu.edu",
+        "first_name": "Hricha",
+        "last_name": "Acharya",
+        "asurite_id": "1225547258"
+    },
+    {
+        "email": "nheyer@asu.edu",
+        "first_name": "Nicholas",
+        "last_name": "Heyer",
+        "asurite_id": "1208685643"
+    },
+    {
+        "email": "Pjain46@asu.edu",
+        "first_name": "Palak",
+        "last_name": "Jain",
+        "asurite_id": "1213433479"
+    },
+    {
+        "email": "jaspiker@asu.edu",
+        "first_name": "Jeri Ann",
+        "last_name": "Spiker",
+        "asurite_id": "jaspiker"
+    },
+    {
+        "email": "slruiz3@asu.edu",
+        "first_name": "Steven",
+        "last_name": "Ruiz",
+        "asurite_id": "slruiz3"
+    },
+    {
+        "email": "mamerce1@asu.edu",
+        "first_name": "Max",
+        "last_name": "Mercer",
+        "asurite_id": "1214680506"
+    },
+    {
+        "email": "lgabric@asu.edu",
+        "first_name": "Lydia",
+        "last_name": "Gabirc",
+        "asurite_id": "lgabric"
+    },
+    {
+        "email": "avidales@asu.edu",
+        "first_name": "Alejandro",
+        "last_name": "Vidales Aller",
+        "asurite_id": "1210193631"
+    },
+    {
+        "email": "zharney@asu.edu",
+        "first_name": "Zach",
+        "last_name": "Harney",
+        "asurite_id": "zharney"
+    },
+    {
+        "email": "labaile3@asu.edu",
+        "first_name": "Luz Marizza",
+        "last_name": "Bailey",
+        "asurite_id": "1222435552"
+    },
+    {
+        "email": "kedoxey@asu.edu",
+        "first_name": "Kate",
+        "last_name": "Doxey",
+        "asurite_id": "1205981955"
+    },
+    {
+        "email": "jevanden@asu.edu",
+        "first_name": "Jana",
+        "last_name": "Vandenberg",
+        "asurite_id": "jevanden"
+    },
+    {
+        "email": "rliu112@asu.edu",
+        "first_name": "Ruoqian",
+        "last_name": "Liu",
+        "asurite_id": "1219416263"
+    },
+    {
+        "email": "kjohn313@asu.edu",
+        "first_name": "Kimball",
+        "last_name": "Johnston",
+        "asurite_id": "kjohn313"
+    },
+    {
+        "email": "apharri7@asu.edu",
+        "first_name": "Ashley",
+        "last_name": "Harrison",
+        "asurite_id": "1229527041"
+    },
+    {
+        "email": "vscampo@asu.edu",
+        "first_name": "Vince",
+        "last_name": "Campo",
+        "asurite_id": "1222101309"
+    },
+    {
+        "email": "bfsweene@asu.edu",
+        "first_name": "Brian",
+        "last_name": "Sweeney",
+        "asurite_id": "bfsweene"
+    },
+    {
+        "email": "sjung55@asu.edu",
+        "first_name": "Sohyeon",
+        "last_name": "Jung",
+        "asurite_id": "1225604614"
+    },
+    {
+        "email": "iflore14@asu.edu",
+        "first_name": "Isaac",
+        "last_name": "Flores",
+        "asurite_id": "1216899021"
+    },
+    {
+        "email": "mjgille1@asu.edu",
+        "first_name": "Matthew",
+        "last_name": "Gillespie",
+        "asurite_id": "1224583425"
+    },
+    {
+        "email": "jvittore@asu.edu",
+        "first_name": "Jonathan",
+        "last_name": "Vittore",
+        "asurite_id": "1217349250"
+    },
+    {
+        "email": "kkoyah@asu.edu",
+        "first_name": "Kira",
+        "last_name": "Koyah",
+        "asurite_id": "1217645481"
+    },
+    {
+        "email": "jroarty@asu.edu",
+        "first_name": "Jacob",
+        "last_name": "Roarty",
+        "asurite_id": "jroarty"
+    },
+    {
+        "email": "lfullme1@asu.edu",
+        "first_name": "Lorna",
+        "last_name": "Headrick",
+        "asurite_id": "lfullme1"
+    },
+    {
+        "email": "hshi35@asu.edu",
+        "first_name": "Haoran",
+        "last_name": "Shi",
+        "asurite_id": "1215803225"
+    },
+    {
+        "email": "vduribe@asu.edu",
+        "first_name": "Victoria",
+        "last_name": "Uribe",
+        "asurite_id": "vduribe"
+    },
+    {
+        "email": "cobite@asu.edu",
+        "first_name": "Chukwudi Paul",
+        "last_name": "Obite",
+        "asurite_id": "1225566563"
+    },
+    {
+        "email": "mguo24@asu.edu",
+        "first_name": "Maosheng",
+        "last_name": "Guo",
+        "asurite_id": "mguo24"
+    },
+    {
+        "email": "ycao108@asu.edu",
+        "first_name": "Yumeng",
+        "last_name": "Cao",
+        "asurite_id": "1217272823"
+    },
+    {
+        "email": "zchang7@asu.edu",
+        "first_name": "Zhi",
+        "last_name": "Chang",
+        "asurite_id": "1225630445"
+    },
+    {
+        "email": "mfoconn1@asu.edu",
+        "first_name": "Michael",
+        "last_name": "O'Connor",
+        "asurite_id": "1205957138"
+    },
+    {
+        "email": "pdoi",
+        "first_name": "Philip",
+        "last_name": "Doi",
+        "asurite_id": "pdoi1"
+    },
+    {
+        "email": "mamerce1@asu.edu",
+        "first_name": "Max",
+        "last_name": "Mercer",
+        "asurite_id": "1214680506"
+    },
+    {
+        "email": "rliu112@asu.edu",
+        "first_name": "Ruoqian",
+        "last_name": "Liu",
+        "asurite_id": "1219416263"
+    },
+    {
+        "email": "mellis5@asu.edu",
+        "first_name": "Miandra",
+        "last_name": "Ellis",
+        "asurite_id": "1201393847"
+    },
+    {
+        "email": "nchmiele@asu.edu",
+        "first_name": "Nicholas",
+        "last_name": "Chmielewski",
+        "asurite_id": "1217109088"
+    },
+    {
+        "email": "scahyani@asu.edu",
+        "first_name": "Sari",
+        "last_name": "Cahyaningtias",
+        "asurite_id": "1219549253"
+    },
+    {
+        "email": "jjames75@asu.edu",
+        "first_name": "Jasmine",
+        "last_name": "James",
+        "asurite_id": "1229648708"
+    },
+    {
+        "email": "sagyei@asu.edu",
+        "first_name": "SOLOMON",
+        "last_name": "AGYEI",
+        "asurite_id": "sagyei"
+    },
+    {
+        "email": "sbradt@asu.edu",
+        "first_name": "Steven",
+        "last_name": "Bradt",
+        "asurite_id": "sbradt"
+    },
+    {
+        "email": "tkwofie@asu.edu",
+        "first_name": "Theophilus",
+        "last_name": "Kwofie",
+        "asurite_id": "tkwofie"
+    },
+    {
+        "email": "ablecker@asu.edu",
+        "first_name": "Aaron",
+        "last_name": "Blecker",
+        "asurite_id": "ablecker"
+    },
+    {
+        "email": "Fzhang81@asu.edu",
+        "first_name": "Fan",
+        "last_name": "Zhang",
+        "asurite_id": "1215160791"
+    },
+    {
+        "email": "brjone16@asu.edu",
+        "first_name": "Benjamin",
+        "last_name": "Jones",
+        "asurite_id": "brjone16"
+    },
+    {
+        "email": "keyanwu@asu.edu",
+        "first_name": "Keyan",
+        "last_name": "Wu",
+        "asurite_id": "1220094707"
+    },
+    {
+        "email": "tgossett@asu.edu",
+        "first_name": "Theodore",
+        "last_name": "Gossett",
+        "asurite_id": "1218369165"
+    },
+    {
+        "email": "eagyema3@asu.edu",
+        "first_name": "Ernest",
+        "last_name": "Agyemang Duah",
+        "asurite_id": "1229502965"
+    },
+    {
+        "email": "jramina@asu.edu",
+        "first_name": "John",
+        "last_name": "Ramina",
+        "asurite_id": "1229437211"
+    }
+]
